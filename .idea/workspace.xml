@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="950df19b-2391-4ae2-be56-87850b20a2f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DLL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/多层网络组合成块.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/DL_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/DL_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/DL_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/DL_5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/DimensionalityReduction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/FeatureSelectionAndSparseLearning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/LogisticRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Semi-supervised learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/cpp_mlp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/mlpTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yZXNONmFS5cBgbUWUPJU7t5ezU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.mlpTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DaiYongle/Pictures&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\DLL\image" />
+      <recent name="D:\Anaconda3\envs\DL\Lib\site-packages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\DLL\notebooks" />
+      <recent name="E:\Python\DLL" />
+      <recent name="E:\Python\DLL\notebooks\Debug" />
+      <recent name="E:\Python\DLL\Debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DLL" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlpTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DLL" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/mlpTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mlpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="950df19b-2391-4ae2-be56-87850b20a2f1" name="Changes" comment="" />
+      <created>1750043028796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750043028796</updated>
+      <workItem from="1750043030127" duration="20595000" />
+      <workItem from="1750126439491" duration="14407000" />
+      <workItem from="1750384165703" duration="316000" />
+      <workItem from="1750401648573" duration="1537000" />
+      <workItem from="1750403198337" duration="14276000" />
+      <workItem from="1750475420118" duration="12128000" />
+      <workItem from="1750560728807" duration="1600000" />
+      <workItem from="1750570849498" duration="3680000" />
+      <workItem from="1750588414366" duration="3085000" />
+      <workItem from="1750661003275" duration="714000" />
+      <workItem from="1750665358425" duration="56000" />
+      <workItem from="1750667247830" duration="9846000" />
+      <workItem from="1750743606659" duration="24534000" />
+      <workItem from="1750846719553" duration="25078000" />
+      <workItem from="1751009631185" duration="8404000" />
+      <workItem from="1751163422972" duration="892000" />
+      <workItem from="1751164336650" duration="20000" />
+      <workItem from="1751208802264" duration="2717000" />
+      <workItem from="1751261667020" duration="9027000" />
+      <workItem from="1751357456106" duration="11607000" />
+      <workItem from="1751539180149" duration="4168000" />
+      <workItem from="1751596362549" duration="6265000" />
+      <workItem from="1751615431035" duration="5391000" />
+      <workItem from="1751636146917" duration="17000" />
+      <workItem from="1751693224022" duration="19819000" />
+      <workItem from="1751806709583" duration="2422000" />
+      <workItem from="1751858042496" duration="5468000" />
+      <workItem from="1752216024306" duration="4537000" />
+      <workItem from="1752285343697" duration="5997000" />
+      <workItem from="1752315952842" duration="2711000" />
+      <workItem from="1752326473379" duration="45000" />
+      <workItem from="1752379119618" duration="1000000" />
+      <workItem from="1752489219672" duration="22660000" />
+      <workItem from="1752590890148" duration="729000" />
+      <workItem from="1752637293595" duration="5479000" />
+      <workItem from="1752645037508" duration="1039000" />
+      <workItem from="1752646094378" duration="4725000" />
+      <workItem from="1752652029262" duration="687000" />
+      <workItem from="1752652746484" duration="3102000" />
+      <workItem from="1752655896907" duration="6078000" />
+      <workItem from="1752674167184" duration="474000" />
+      <workItem from="1752676247257" duration="2484000" />
+      <workItem from="1752678776195" duration="167000" />
+      <workItem from="1752679125984" duration="1515000" />
+      <workItem from="1752680670355" duration="30000" />
+      <workItem from="1752680857331" duration="2923000" />
+      <workItem from="1752684786589" duration="3733000" />
+      <workItem from="1752688583382" duration="4701000" />
+      <workItem from="1752693358412" duration="5369000" />
+      <workItem from="1752724959997" duration="5101000" />
+      <workItem from="1752730141068" duration="1280000" />
+      <workItem from="1752731456923" duration="11625000" />
+      <workItem from="1752746651832" duration="7015000" />
+      <workItem from="1752754207139" duration="19149000" />
+      <workItem from="1752891059272" duration="33076000" />
+      <workItem from="1753081788148" duration="12247000" />
+      <workItem from="1753106550708" duration="39000" />
+      <workItem from="1753343433532" duration="42706000" />
+      <workItem from="1753495247358" duration="12732000" />
+      <workItem from="1753517000907" duration="2709000" />
+      <workItem from="1753528169318" duration="1291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+setuptools~=78.1.1
+torch~=2.9.0.dev20250714+cu129
+jieba~=0.42.1
+numpy~=2.1.2
+scikit-learn~=1.6.1
+torch
+matplotlib
+torchvision
+seaborn
+scipy
