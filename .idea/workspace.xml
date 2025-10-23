@@ -7,29 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950df19b-2391-4ae2-be56-87850b20a2f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DLL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/多层网络组合成块.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/DL_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/DL_3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/DL_4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/DL_5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/DimensionalityReduction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/FeatureSelectionAndSparseLearning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/LogisticRegression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Semi-supervised learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/cpp_mlp.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/mlpTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    <list default="true" id="950df19b-2391-4ae2-be56-87850b20a2f1" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/DL_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/DL_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/DL_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/DL_5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/best_chinese_text_mlp_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/best_chinese_text_mlp_model.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/mlp.pth" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mlp.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +50,13 @@
     &quot;Python.mlpTest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DaiYongle/Pictures&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Python/DLL/image&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -217,11 +201,118 @@
       <workItem from="1753343433532" duration="42706000" />
       <workItem from="1753495247358" duration="12732000" />
       <workItem from="1753517000907" duration="2709000" />
-      <workItem from="1753528169318" duration="1291000" />
+      <workItem from="1753528169318" duration="6346000" />
+      <workItem from="1754043826563" duration="331000" />
+      <workItem from="1754119878636" duration="4848000" />
+      <workItem from="1754285011493" duration="3976000" />
+      <workItem from="1754300994046" duration="11493000" />
+      <workItem from="1754462947197" duration="5539000" />
+      <workItem from="1754622502479" duration="541000" />
+      <workItem from="1754626675060" duration="56000" />
+      <workItem from="1754701325169" duration="32000" />
+      <workItem from="1754705111227" duration="2708000" />
+      <workItem from="1754808547836" duration="326000" />
+      <workItem from="1754808900835" duration="55000" />
+      <workItem from="1754885328035" duration="1882000" />
+      <workItem from="1755073999262" duration="3433000" />
+      <workItem from="1755182368832" duration="721000" />
+      <workItem from="1755413832062" duration="1178000" />
+      <workItem from="1755762691614" duration="3438000" />
+      <workItem from="1755785231658" duration="7293000" />
+      <workItem from="1755873193285" duration="29490000" />
+      <workItem from="1756086277895" duration="3000" />
+      <workItem from="1756130598979" duration="13026000" />
+      <workItem from="1756201721896" duration="11861000" />
+      <workItem from="1756290098736" duration="15497000" />
+      <workItem from="1756385360910" duration="14856000" />
+      <workItem from="1756446257011" duration="7961000" />
+      <workItem from="1756459701368" duration="2150000" />
+      <workItem from="1756474270577" duration="30523000" />
+      <workItem from="1756608449968" duration="165000" />
+      <workItem from="1756643590235" duration="32000" />
+      <workItem from="1756711437012" duration="6831000" />
+      <workItem from="1756879687178" duration="22738000" />
+      <workItem from="1756946239543" duration="107000" />
+      <workItem from="1757121174864" duration="9831000" />
+      <workItem from="1757203599211" duration="3666000" />
+      <workItem from="1757208739682" duration="535000" />
+      <workItem from="1757209462080" duration="3480000" />
+      <workItem from="1757213469548" duration="19220000" />
+      <workItem from="1757378612658" duration="606000" />
+      <workItem from="1757379245289" duration="4225000" />
+      <workItem from="1757393520266" duration="1596000" />
+      <workItem from="1757395144466" duration="621000" />
+      <workItem from="1757396205282" duration="15025000" />
+      <workItem from="1757464331587" duration="13864000" />
+      <workItem from="1757502320434" duration="10298000" />
+      <workItem from="1757549260047" duration="18986000" />
+      <workItem from="1757587107551" duration="11067000" />
+      <workItem from="1757637163759" duration="12436000" />
+      <workItem from="1757654456607" duration="12256000" />
+      <workItem from="1757689615782" duration="4196000" />
+      <workItem from="1757722500796" duration="2441000" />
+      <workItem from="1757725256516" duration="45000" />
+      <workItem from="1757744715895" duration="2438000" />
+      <workItem from="1757829118224" duration="20302000" />
+      <workItem from="1757897291164" duration="3413000" />
+      <workItem from="1757936394840" duration="1603000" />
+      <workItem from="1758102916893" duration="66000" />
+      <workItem from="1759738897795" duration="464000" />
+      <workItem from="1759816611816" duration="2320000" />
+      <workItem from="1759905136259" duration="17931000" />
+      <workItem from="1759989094680" duration="2014000" />
+      <workItem from="1760089086520" duration="3000" />
+      <workItem from="1760160642071" duration="372000" />
+      <workItem from="1760162968103" duration="3675000" />
+      <workItem from="1760254212410" duration="10000" />
+      <workItem from="1760261456310" duration="701000" />
+      <workItem from="1760283876351" duration="877000" />
+      <workItem from="1760336286535" duration="123000" />
+      <workItem from="1760543703430" duration="1972000" />
+      <workItem from="1760611225988" duration="206000" />
+      <workItem from="1761112836903" duration="1352000" />
+      <workItem from="1761186870352" duration="16492000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1753533133377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753533133377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1761202539726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761202539727</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1761205231022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761205231022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1761205330084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761205330084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>

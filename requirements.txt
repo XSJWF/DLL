@@ -8,3 +8,12 @@ matplotlib
 torchvision
 seaborn
 scipy
+pandas
+mlxtend
+scikit-image
+gensim
+wordcloud
+pyLDAvis
+tqdm
+datasets
+nltk
