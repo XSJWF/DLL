@@ -8,12 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="950df19b-2391-4ae2-be56-87850b20a2f1" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/notebooks/DL_9.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/DL_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/DL_4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/DL_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/DL_5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/best_chinese_text_mlp_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/best_chinese_text_mlp_model.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/mlp.pth" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mlp.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,6 +268,7 @@
       <workItem from="1760611225988" duration="206000" />
       <workItem from="1761112836903" duration="1352000" />
       <workItem from="1761186870352" duration="16492000" />
+      <workItem from="1762668060977" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -310,6 +307,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
