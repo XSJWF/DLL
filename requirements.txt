@@ -1,2 +1,6 @@
-torch
+torch~=2.9.0.dev20250714+cu129
 matplotlib
+setuptools~=78.1.1
+jieba~=0.42.1
+numpy~=2.1.2
+scikit-learn~=1.6.1
